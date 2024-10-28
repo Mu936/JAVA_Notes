@@ -1,10 +1,12 @@
 *VARIABLES IN JAVA.
 -variables in Java is a container that holds data that can be changed during the execution of a program.
 -to use a variable you must declare it by specifying its data type and name.
+
 *TYPES OF VARIABLES:
 -Local variable:
 -Instance variable
 -Static variable
+
 *DATA TYPES IN JAVA. 
 ->Primitive Data Types:
 ->Java has eight built-in data types, known as primitive data types:
