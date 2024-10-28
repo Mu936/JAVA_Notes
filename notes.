@@ -1,0 +1,75 @@
+*VARIABLES IN JAVA.
+-variables in Java is a container that holds data that can be changed during the execution of a program.
+-to use a variable you must declare it by specifying its data type and name.
+*TYPES OF VARIABLES:
+-Local variable:
+-Instance variable
+-Static variable
+*DATA TYPES IN JAVA. 
+->Primitive Data Types:
+->Java has eight built-in data types, known as primitive data types:
+-byte: 8-bit integer (-128 to 127)
+-short: 16-bit integer (-32,768 to 32,767)
+-int: 32-bit integer (common, -2 billion to 2 billion)
+-long: 64-bit integer (large values)
+-float: 32-bit decimal (less precise)
+-double: 64-bit decimal (more precise)
+-char: 16-bit character (stores single characters)
+-boolean: true or false
+
+
+*OPERATORS IN JAVA.
+1. Arithmetic Operators
++: Addition
+-: Subtraction
+*: Multiplication
+/: Division
+%: Modulus (remainder)
+
+2. Relational Operators
+==: Equal
+!=: Not equal
+>: Greater than
+<: Less than
+>=: Greater than or equal to
+<=: Less than or equal to
+
+3. Logical Operators
+&&: AND (both true)
+||: OR (at least one true)
+!: NOT (negates)
+
+4. Assignment Operators
+=: Assign
++=: Add and assign
+-=: Subtract and assign
+*=: Multiply and assign
+/=: Divide and assign
+%=: Modulus and assign
+
+5. Unary Operators
+++: Increment by 1
+--: Decrement by 1
+
+6. Conditional (Ternary) Operator
+condition ? expr1 : expr2: If condition true, do expr1; otherwise, do expr2.
+
+**CONTROL STRUCTURE(IF-ELSE, LOOPS):
+1. Conditional Statements
+-if Statement: Executes code if a condition is true.
+-else Statement: Executes code if the preceding if condition is false.
+-else if Statement: Checks multiple conditions in sequence.
+Example Use: Determine grades based on scores.
+
+2. Looping Constructs
+-for Loop: Used when the number of iterations is known.
+-while Loop: Used when the number of iterations is unknown and continues while a condition is true.
+-do-while Loop: Executes at least once before checking the condition.
+
+*Control Statements in Loops
+-break: Exits the loop immediately.
+-continue: Skips the current iteration and proceeds to the next.
+
+3. Practical Applications
+-Conditional Execution: Control program flow based on dynamic conditions.
+-Iteration with Loops: Perform repetitive tasks like processing arrays or user input.
