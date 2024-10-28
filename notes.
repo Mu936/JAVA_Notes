@@ -73,3 +73,9 @@ Example Use: Determine grades based on scores.
 3. Practical Applications
 -Conditional Execution: Control program flow based on dynamic conditions.
 -Iteration with Loops: Perform repetitive tasks like processing arrays or user input.
+
+->SUMMARY NOTES:
+-Use if for decision-making.
+-Use else for alternative actions.
+-Use for, while, and do-while for looping.
+-Use break to exit loops and continue to skip iterations.
